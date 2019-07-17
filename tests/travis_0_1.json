@@ -3,7 +3,7 @@
         "timestamp": 1502257810365,
         "version": 21,
         "name": "BeYourBest Apps",
-        "icon": "vrgames.png",
+        "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
         "address": "",
         "description": "Oculus Quest VR Similations"
     },
@@ -27,7 +27,7 @@
             "summary": "Elite Football VR Perception Trainer",
             "webSite": "https://beyourbest.com",
             "added": 1559229168000,
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
             "packageName": "com.BeYourBest.Vision",
             "lastUpdated": 1559239168000
         }
@@ -36,7 +36,7 @@
         "com.drbeef.quakequest": [
             {
                 "added": 1559239168000,
-                "apkName": "",
+                "apkName": "https://github.com/BeYourBest/unit-test/releases/download/1.4.4-alpha/1.4.4-alpha.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "25",
