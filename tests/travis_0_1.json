@@ -1,0 +1,62 @@
+{
+    "repo": {
+        "timestamp": 1502257810365,
+        "version": 21,
+        "name": "BeYourBest Apps",
+        "icon": "vrgames.png",
+        "address": "",
+        "description": "Oculus Quest VR Similations"
+    },
+    "requests": {
+        "install": [],
+        "uninstall": []
+    },
+    "apps": [
+        {
+            "antiFeatures": [],
+            "categories": [
+                "SPORT"
+            ],
+            "suggestedVersionName": "1.4.4",
+            "suggestedVersionCode": "144",
+            "description": "Latest Quest version for early access users",
+            "issueTracker": "",
+            "license": "Closed",
+            "name": "BeYourBest - VR Trainer",
+            "sourceCode": "",
+            "summary": "Elite Football VR Perception Trainer",
+            "webSite": "https://beyourbest.com",
+            "added": 1559229168000,
+            "icon": "",
+            "packageName": "com.BeYourBest.Vision",
+            "lastUpdated": 1559239168000
+        }
+    ],
+    "packages": {
+        "com.drbeef.quakequest": [
+            {
+                "added": 1559239168000,
+                "apkName": "",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "25",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.BeYourBest.Vision",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "25",
+                "versionCode": 144,
+                "versionName": "1.4.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+    }
+}
