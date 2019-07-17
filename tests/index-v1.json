@@ -19,7 +19,7 @@
             ],
             "suggestedVersionName": "1.14.00",
             "suggestedVersionCode": "114",
-            "description": ". This release brings some new features:Bullet-Time VR Mode: a blatant display of plagiarism, time progresses as you move yourself or your weapon, inspired by the Quake Mod SUPERQOT (courtesy of the SUPERHOT team) 3DoF weapon mode for those that don't like the slight movement 6DoF weapon introduced and fixes to a few things:Text Input now correctly allows you to join a multiplayer game (for more info on using text input, please see release notes for v1.1.0). Weapon scaling improvements",
+            "description": "1.4.4 Oculus Quest development release for early access users.",
             "issueTracker": "",
             "license": "FREE",
             "name": "BeYourBest - VR Trainer",
