@@ -1,10 +1,10 @@
-[{
+{
     "repo": {
         "timestamp": 1502257810365,
         "version": 21,
         "name": "BeYourBest Apps",
-        "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
-        "address": "",
+        "icon": "vrgames.png",
+        "address": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/",
         "description": "Oculus Quest VR Similations"
     },
     "requests": {
@@ -15,41 +15,41 @@
         {
             "antiFeatures": [],
             "categories": [
-                "SPORT"
+                "FPS"
             ],
-            "suggestedVersionName": "1.4.4",
-            "suggestedVersionCode": "144",
-            "description": "Latest Quest version for early access users",
+            "suggestedVersionName": "1.14.00",
+            "suggestedVersionCode": "114",
+            "description": ". This release brings some new features:Bullet-Time VR Mode: a blatant display of plagiarism, time progresses as you move yourself or your weapon, inspired by the Quake Mod SUPERQOT (courtesy of the SUPERHOT team) 3DoF weapon mode for those that don't like the slight movement 6DoF weapon introduced and fixes to a few things:Text Input now correctly allows you to join a multiplayer game (for more info on using text input, please see release notes for v1.1.0). Weapon scaling improvements",
             "issueTracker": "",
-            "license": "Closed",
+            "license": "FREE",
             "name": "BeYourBest - VR Trainer",
             "sourceCode": "",
             "summary": "Elite Football VR Perception Trainer",
-            "webSite": "https://beyourbest.com",
+            "webSite": "https://quakevr.com/",
             "added": 1559229168000,
             "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
-            "packageName": "com.BeYourBest.Vision",
+            "packageName": "com.drbeef.quakequest",
             "lastUpdated": 1559239168000
         }
     ],
     "packages": {
-        "com.BeYourBest.Vision": [
+        "com.drbeef.quakequest": [
             {
                 "added": 1559239168000,
                 "apkName": "https://github.com/BeYourBest/unit-test/releases/download/1.4.4-alpha/1.4.4-alpha.apk",
                 "hash": "",
                 "hashType": "sha256",
-                "minSdkVersion": "25",
+                "minSdkVersion": "16",
                 "nativecode": [
                     "armeabi-v7a"
                 ],
-                "packageName": "com.BeYourBest.Vision",
+                "packageName": "com.drbeef.quakequest",
                 "sig": "",
                 "size": 55156885,
                 "srcname": "",
-                "targetSdkVersion": "25",
-                "versionCode": 144,
-                "versionName": "1.4.4",
+                "targetSdkVersion": "22",
+                "versionCode": 114,
+                "versionName": "1.4.1",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
@@ -57,6 +57,6 @@
                     ]
                 ]
             }
-        ]
+        ],
     }
-}]
+}
