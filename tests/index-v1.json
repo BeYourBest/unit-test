@@ -29,7 +29,8 @@
             "added": 1559229168000,
             "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
             "packageName": "com.beyourbest.vision",
-            "lastUpdated": 1559239168000
+            "lastUpdated": 1559239168000,
+            "changelog": "This is a change log"
         }
     ],
     "packages": {
