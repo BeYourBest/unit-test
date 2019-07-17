@@ -1,4 +1,4 @@
-{
+[{
     "repo": {
         "timestamp": 1502257810365,
         "version": 21,
@@ -33,7 +33,7 @@
         }
     ],
     "packages": {
-        "com.drbeef.quakequest": [
+        "com.BeYourBest.Vision": [
             {
                 "added": 1559239168000,
                 "apkName": "https://github.com/BeYourBest/unit-test/releases/download/1.4.4-alpha/1.4.4-alpha.apk",
@@ -57,6 +57,6 @@
                     ]
                 ]
             }
-        ],
+        ]
     }
-}
+}]
