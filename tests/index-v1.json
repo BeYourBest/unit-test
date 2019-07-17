@@ -28,12 +28,12 @@
             "webSite": "https://quakevr.com/",
             "added": 1559229168000,
             "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
-            "packageName": "com.drbeef.quakequest",
+            "packageName": "com.BeYourBest.Vision",
             "lastUpdated": 1559239168000
         }
     ],
     "packages": {
-        "com.drbeef.quakequest": [
+        "com.BeYourBest.Vision": [
             {
                 "added": 1559239168000,
                 "apkName": "https://github.com/BeYourBest/unit-test/releases/download/1.4.4-alpha/1.4.4-alpha.apk",
@@ -43,7 +43,7 @@
                 "nativecode": [
                     "armeabi-v7a"
                 ],
-                "packageName": "com.drbeef.quakequest",
+                "packageName": "com.BeYourBest.Vision",
                 "sig": "",
                 "size": 55156885,
                 "srcname": "",
