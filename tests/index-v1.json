@@ -21,7 +21,7 @@
             "suggestedVersionCode": "161",
             "description": "1.6.1 Oculus Quest development release for early access users.",
             "issueTracker": "",
-            "license": "FREE",
+            "license": "CLOSED",
             "name": "BeYourBest - VR Trainer",
             "sourceCode": "",
             "summary": "Elite Football VR Perception Trainer",
@@ -30,7 +30,7 @@
             "icon": "https://raw.githubusercontent.com/BeYourBest/unit-test/master/tests/assets/byb_1.jpeg",
             "packageName": "com.beyourbest.vision",
             "lastUpdated": 1559239168000,
-            "changelog": " "
+            "changelog": "Oculus Quest release version - VR Keyboard & 3D hand controls"
         }
     ],
     "packages": {
