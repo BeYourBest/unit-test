@@ -49,8 +49,8 @@
                 "size": 55156885,
                 "srcname": "",
                 "targetSdkVersion": "22",
-                "versionCode": 180,
-                "versionName": "1.8.0",
+                "versionCode": 168,
+                "versionName": "1.6.8",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
