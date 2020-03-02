@@ -18,8 +18,8 @@
                 "FPS"
             ],
             "suggestedVersionName": "1.14.00",
-            "suggestedVersionCode": "182",
-            "description": "1.8.2 Quest Release",
+            "suggestedVersionCode": "184",
+            "description": "1.8.4 Quest Release",
             "issueTracker": "",
             "license": "CLOSED",
             "name": "BeYourBest - VR Perception Trainer",
@@ -30,14 +30,14 @@
             "icon": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/assets/byb_1.jpeg",
             "packageName": "com.beyourbest.vision",
             "lastUpdated": 1559239168000,
-            "changelog": "Oculus Quest 1.8.2 patch version - New login system, major stability improvments, major scenario package update, new menu UI, faster play system, new demo mode"
+            "changelog": "Oculus Quest 1.8.4 Updated Scenarions & Realistic Audio System"
         }
     ],
     "packages": {
         "com.beyourbest.vision": [
             {
                 "added": 1559239168000,
-                "apkName": "https://github.com/DylanThomson/unit-test/releases/download/1.8.2-release/1.8.2-release.apk",
+                "apkName": "https://github.com/DylanThomson/unit-test/releases/download/1.8.4-release/1.8.4-release.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
@@ -49,8 +49,8 @@
                 "size": 55156885,
                 "srcname": "",
                 "targetSdkVersion": "22",
-                "versionCode": 182,
-                "versionName": "1.8.2",
+                "versionCode": 184,
+                "versionName": "1.8.4",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
