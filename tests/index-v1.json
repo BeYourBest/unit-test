@@ -1,7 +1,7 @@
 {
     "repo": {
         "timestamp": 1502257810365,
-        "version": 210,
+        "version": 21,
         "name": "BeYourBest Apps",
         "icon": "vrgames.png",
         "address": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/",
@@ -46,7 +46,7 @@
                 ],
                 "packageName": "com.beyourbest.vision",
                 "sig": "",
-                "size": 17000000,
+                "size": 55156885,
                 "srcname": "",
                 "targetSdkVersion": "25",
                 "versionCode": 1,
