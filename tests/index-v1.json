@@ -1,10 +1,10 @@
 {
     "repo": {
         "timestamp": 1502257810365,
-        "version": 21,
+        "version": 210,
         "name": "BeYourBest Apps",
         "icon": "vrgames.png",
-        "address": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/",
+        "address": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/cfg/",
         "description": "Oculus Quest VR Similations"
     },
     "requests": {
@@ -17,40 +17,40 @@
             "categories": [
                 "FPS"
             ],
-            "suggestedVersionName": "1.14.00",
-            "suggestedVersionCode": "184",
-            "description": "1.8.4 Quest Release",
+            "suggestedVersionName": "2.1.0",
+            "suggestedVersionCode": "210",
+            "description": "2.1.0 Quest Release",
             "issueTracker": "",
             "license": "CLOSED",
-            "name": "BeYourBest - VR Perception Trainer",
+            "name": "BeYourBest - VR Trainer",
             "sourceCode": "",
-            "summary": "Cognitive Trainer for Elite Footballers",
+            "summary": "A VR trainer for elite footballers",
             "webSite": "https://beyourbest.com/",
             "added": 1559229168000,
-            "icon": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/assets/byb_1.jpeg",
+            "icon": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/assets/byb_1.jpg",
             "packageName": "com.beyourbest.vision",
             "lastUpdated": 1559239168000,
-            "changelog": "Oculus Quest 1.8.4 Updated Scenarions & Realistic Audio System"
+            "changelog": "Oculus Quest 1 & 2 - 2.1.0 2020 release"
         }
     ],
     "packages": {
         "com.beyourbest.vision": [
             {
                 "added": 1559239168000,
-                "apkName": "https://github.com/DylanThomson/unit-test/releases/download/1.8.4-release/1.8.4-release.apk",
+                "apkName": "https://github.com/DylanThomson/unit-test/releases/download/beyourbest-2.1.0-rc/beyourbest-2.1.0-rc.apk",
                 "hash": "",
                 "hashType": "sha256",
-                "minSdkVersion": "16",
+                "minSdkVersion": "25",
                 "nativecode": [
                     "armeabi-v7a"
                 ],
                 "packageName": "com.beyourbest.vision",
                 "sig": "",
-                "size": 55156885,
+                "size": 17000000,
                 "srcname": "",
-                "targetSdkVersion": "22",
-                "versionCode": 184,
-                "versionName": "1.8.4",
+                "targetSdkVersion": "25",
+                "versionCode": 1,
+                "versionName": "2.1.0",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
