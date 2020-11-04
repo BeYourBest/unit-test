@@ -4,7 +4,7 @@
         "version": 210,
         "name": "BeYourBest Apps",
         "icon": "vrgames.png",
-        "address": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/cfg/",
+        "address": "https://raw.githubusercontent.com/DylanThomson/unit-test/master/tests/",
         "description": "Oculus Quest VR Similations"
     },
     "requests": {
